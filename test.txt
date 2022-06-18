@@ -7,3 +7,6 @@ git commit  - 변경파일의 그룹 이름 짓기
 git push- 
 git pull
 git merge, rebase
+
+
+master와 origin/master 브랜치의 차이
