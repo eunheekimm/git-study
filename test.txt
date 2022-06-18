@@ -1,0 +1,9 @@
+git status - git이 추적하거나 추적하지 않거나 변경된 부분을 알려줌.
+git add <root(git init 을 한 디렉터)기준 - filePath 즉 상대경로> - 스태이징 영역에 올린것 
+
+%전체경로 - C:\Users\김은희\test\test.txt
+%상대경로 -  (현재위치 : C:\Users\김은희\test)./test.txt
+git commit  - 변경파일의 그룹 이름 짓기 
+git push- 
+git pull
+git merge, rebase
